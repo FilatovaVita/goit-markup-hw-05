@@ -48,7 +48,7 @@ img {
   padding-right: 15px;
 }
 body {
-  padding-top: 90px;
+  padding-top: 80px;
   color: var(--text-color);
   font-family: var(--main-font);
   font-weight: 400;
@@ -189,11 +189,11 @@ body {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   transition: color var(--time), background-color var(--time);
 }
-.hero-btn:hover,
+/* .hero-btn:hover,
 .hero-btn:focus {
   color: var(--acent);
   background-color: var(--white);
-}
+} */
 
 /* competence section style */
 .competence {
